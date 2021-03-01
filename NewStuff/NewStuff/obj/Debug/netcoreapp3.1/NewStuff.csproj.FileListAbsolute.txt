@@ -1,0 +1,13 @@
+C:\Users\JonasP\Desktop\Repository git\NewStuff\NewStuff\obj\Debug\netcoreapp3.1\NewStuff.csprojAssemblyReference.cache
+C:\Users\JonasP\Desktop\Repository git\NewStuff\NewStuff\obj\Debug\netcoreapp3.1\NewStuff.AssemblyInfoInputs.cache
+C:\Users\JonasP\Desktop\Repository git\NewStuff\NewStuff\obj\Debug\netcoreapp3.1\NewStuff.AssemblyInfo.cs
+C:\Users\JonasP\Desktop\Repository git\NewStuff\NewStuff\obj\Debug\netcoreapp3.1\NewStuff.csproj.CoreCompileInputs.cache
+C:\Users\JonasP\Desktop\Repository git\NewStuff\NewStuff\bin\Debug\netcoreapp3.1\NewStuff.exe
+C:\Users\JonasP\Desktop\Repository git\NewStuff\NewStuff\bin\Debug\netcoreapp3.1\NewStuff.deps.json
+C:\Users\JonasP\Desktop\Repository git\NewStuff\NewStuff\bin\Debug\netcoreapp3.1\NewStuff.runtimeconfig.json
+C:\Users\JonasP\Desktop\Repository git\NewStuff\NewStuff\bin\Debug\netcoreapp3.1\NewStuff.runtimeconfig.dev.json
+C:\Users\JonasP\Desktop\Repository git\NewStuff\NewStuff\bin\Debug\netcoreapp3.1\NewStuff.dll
+C:\Users\JonasP\Desktop\Repository git\NewStuff\NewStuff\bin\Debug\netcoreapp3.1\NewStuff.pdb
+C:\Users\JonasP\Desktop\Repository git\NewStuff\NewStuff\obj\Debug\netcoreapp3.1\NewStuff.dll
+C:\Users\JonasP\Desktop\Repository git\NewStuff\NewStuff\obj\Debug\netcoreapp3.1\NewStuff.pdb
+C:\Users\JonasP\Desktop\Repository git\NewStuff\NewStuff\obj\Debug\netcoreapp3.1\NewStuff.genruntimeconfig.cache
